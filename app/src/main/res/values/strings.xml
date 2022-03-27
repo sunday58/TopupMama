@@ -9,4 +9,9 @@
     <string name="internet_issues">No internet connection</string>
     <string name="weather_image">weather image</string>
     <string name="thur">THUR</string>
+    <string name="visibility">VISIBILITY</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="dew_point">DEW POINT</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
 </resources>
