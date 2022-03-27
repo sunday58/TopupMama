@@ -7,4 +7,6 @@
     <string name="problem_occured">A problem occurred</string>
     <string name="issues_message">we are unable to display weather at the moment, please try again later</string>
     <string name="internet_issues">No internet connection</string>
+    <string name="weather_image">weather image</string>
+    <string name="thur">THUR</string>
 </resources>
