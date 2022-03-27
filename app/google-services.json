@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456452003166",
+    "project_id": "topupmama-79f5b",
+    "storage_bucket": "topupmama-79f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456452003166:android:5f3ed0cebdd29d70ea2bcf",
+        "android_client_info": {
+          "package_name": "com.app.topupmama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456452003166-a0umoe3rcjnbrjqprjj06rc4la408jaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRTwsyaqV4hABRGcXh7TSliM_hlrdu7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456452003166-a0umoe3rcjnbrjqprjj06rc4la408jaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

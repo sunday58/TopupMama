@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TopupMama</string>
+    <string name="appid">ebf152610a6367065ad14e640b0d14e2</string>
+    <string name="something_wrong">Something went wrong, contact customer service for assistance</string>
+    <string name="top_channel">top_up_channel</string>
+    <string name="my_channel">my top up channel</string>
+    <string name="problem_occured">A problem occurred</string>
+    <string name="issues_message">we are unable to display weather at the moment, please try again later</string>
+    <string name="internet_issues">No internet connection</string>
+</resources>
