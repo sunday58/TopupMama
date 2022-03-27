@@ -100,12 +100,10 @@ class WeatherAdapter (private  val listItem: List<Object>, listener: OnItemClick
 
     override fun getItemCount() = items.size
 
-
     interface OnItemClickListener{
         fun onItemClick(position: Int, item: Object)
 
     }
-
 
     class WeatherViewModel(val binding: WeatherListItemBinding):
         ViewHolder(binding.root)

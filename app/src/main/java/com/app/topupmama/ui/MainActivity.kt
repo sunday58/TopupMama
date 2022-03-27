@@ -140,7 +140,6 @@ class MainActivity : AppCompatActivity(), WeatherAdapter.OnItemClickListener {
         binding.progressBar.visibility = if (isDisplay) View.VISIBLE else View.GONE
     }
 
-
     @SuppressLint("SetTextI18n")
     private fun  displayUI(weatherRemoteEntity: Object){
         //for date
